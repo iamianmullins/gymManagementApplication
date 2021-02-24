@@ -1,0 +1,25 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <name>Homer Simpson</name>
+      <email>homer@simpson.com</email>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <speciality>TRX</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Bart Simpson</name>
+      <email>bart@simpson.com</email>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <speciality>Weights</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Trainer</name>
+      <email>trainer@mail.com</email>
+      <address>Waterford</address>
+      <gender>M</gender>
+      <speciality>Swimming</speciality>
+    </Trainer>
+  </list>
+</object-stream>

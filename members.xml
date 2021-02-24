@@ -1,0 +1,236 @@
+<object-stream>
+  <list>
+    <PremiumMember>
+      <name>Ned Flanders</name>
+      <email>ned@flanders.com</email>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <height>2.0</height>
+      <startWeight>80.0</startWeight>
+      <assessment>
+        <weighRecord>93.2</weighRecord>
+        <thighMeasurement>14.0</thighMeasurement>
+        <waistMeasurement>14.0</waistMeasurement>
+        <trainer>Homer Simpson</trainer>
+        <comment>More work needed</comment>
+      </assessment>
+      <chosenPackage>Allowed access anytime to gym.
+Free access to all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+    </PremiumMember>
+    <StudentMember>
+      <name>Rodd Flanders</name>
+      <email>rodd@flanders.com</email>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <height>2.1</height>
+      <startWeight>129.0</startWeight>
+      <chosenPackage>Allowed access to gym during term time.
+€4 fee for all classes.  
+No access to deluxe changing rooms.</chosenPackage>
+      <assessments/>
+      <studentId>2000</studentId>
+      <collegeName>wit</collegeName>
+    </StudentMember>
+    <StudentMember>
+      <name>Tod</name>
+      <email>todd@flanders</email>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <height>1.5</height>
+      <startWeight>100.0</startWeight>
+      <assessment>
+        <weighRecord>60.0</weighRecord>
+        <thighMeasurement>16.0</thighMeasurement>
+        <waistMeasurement>16.0</waistMeasurement>
+        <trainer>Homer Simpson</trainer>
+        <comment>Nice work</comment>
+      </assessment>
+      <chosenPackage>Allowed access to gym at off-peak times.
+€5 fee for all classes. 
+No access to deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+      <studentId>12345</studentId>
+      <collegeName>CIT</collegeName>
+    </StudentMember>
+    <PremiumMember>
+      <name>Lisa Simpson</name>
+      <email>lisa@simpson.com</email>
+      <address>Evergreen Terrace</address>
+      <gender>F</gender>
+      <height>1.6</height>
+      <startWeight>40.0</startWeight>
+      <assessment>
+        <weighRecord>50.0</weighRecord>
+        <thighMeasurement>50.0</thighMeasurement>
+        <waistMeasurement>50.0</waistMeasurement>
+        <trainer>Bart Simpson</trainer>
+        <comment>amended</comment>
+      </assessment>
+      <chosenPackage>Allowed access anytime to gym.
+Free access to all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment>
+            <weighRecord>25.0</weighRecord>
+            <thighMeasurement>10.0</thighMeasurement>
+            <waistMeasurement>10.0</waistMeasurement>
+            <trainer>Homer Simpson</trainer>
+            <comment>You&apos;re in trouble</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/11</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+    </PremiumMember>
+    <PremiumMember>
+      <name>Marge Simpson</name>
+      <email>marge@simpson.com</email>
+      <address>evergreen</address>
+      <gender>Unspecified</gender>
+      <height>1.9</height>
+      <startWeight>90.0</startWeight>
+      <assessment>
+        <weighRecord>78.0</weighRecord>
+        <thighMeasurement>14.0</thighMeasurement>
+        <waistMeasurement>12.0</waistMeasurement>
+        <trainer>Homer Simpson</trainer>
+        <comment>Nice job marge</comment>
+      </assessment>
+      <chosenPackage>Allowed access anytime to gym.
+€3 fee for all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+    </PremiumMember>
+    <PremiumMember>
+      <name>Member</name>
+      <email>member@mail.com</email>
+      <address>Waterford</address>
+      <gender>F</gender>
+      <height>1.85</height>
+      <startWeight>85.0</startWeight>
+      <assessment>
+        <weighRecord>110.0</weighRecord>
+        <thighMeasurement>10.0</thighMeasurement>
+        <waistMeasurement>10.0</waistMeasurement>
+        <trainer>Homer Simpson</trainer>
+        <comment>Good job</comment>
+      </assessment>
+      <chosenPackage>Allowed access anytime to gym.
+Free access to all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+    </PremiumMember>
+    <StudentMember>
+      <name>Barney Gumble</name>
+      <email>barney@gumble.com</email>
+      <address>Moes Tavern</address>
+      <gender>M</gender>
+      <height>2.0</height>
+      <startWeight>93.2</startWeight>
+      <assessment>
+        <weighRecord>95.0</weighRecord>
+        <thighMeasurement>25.0</thighMeasurement>
+        <waistMeasurement>25.0</waistMeasurement>
+        <trainer>Homer Simpson</trainer>
+        <comment>Too bad</comment>
+      </assessment>
+      <chosenPackage>Allowed access to gym during term time.
+€4 fee for all classes.  
+No access to deluxe changing rooms.</chosenPackage>
+      <assessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment>
+            <weighRecord>93.2</weighRecord>
+            <thighMeasurement>10.0</thighMeasurement>
+            <waistMeasurement>10.0</waistMeasurement>
+            <trainer>Homer Simpson</trainer>
+            <comment>Nice job</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/11</string>
+          <Assessment reference="../../../assessment"/>
+        </entry>
+      </assessments>
+      <studentId>2000</studentId>
+      <collegeName>wit</collegeName>
+    </StudentMember>
+    <StudentMember>
+      <name>mymember</name>
+      <email>mymember@mail.com</email>
+      <address>mymember</address>
+      <gender>M</gender>
+      <height>1.8</height>
+      <startWeight>85.0</startWeight>
+      <chosenPackage>Allowed access to gym during term time.
+€4 fee for all classes.  
+No access to deluxe changing rooms.</chosenPackage>
+      <assessments/>
+      <studentId>200</studentId>
+      <collegeName>wit</collegeName>
+    </StudentMember>
+    <PremiumMember>
+      <name>tom</name>
+      <email>tom</email>
+      <address>tom</address>
+      <gender>M</gender>
+      <height>3.0</height>
+      <startWeight>35.0</startWeight>
+      <chosenPackage>Allowed access anytime to gym.
+Free access to all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments/>
+    </PremiumMember>
+    <PremiumMember>
+      <name>ian</name>
+      <email>ian@mail</email>
+      <address>bally</address>
+      <gender>M</gender>
+      <height>3.0</height>
+      <startWeight>35.0</startWeight>
+      <chosenPackage>Allowed access anytime to gym.
+Free access to all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments/>
+    </PremiumMember>
+    <PremiumMember>
+      <name>me</name>
+      <email>me</email>
+      <address>me</address>
+      <gender>M</gender>
+      <height>3.0</height>
+      <startWeight>250.0</startWeight>
+      <chosenPackage>Allowed access anytime to gym.
+€3 fee for all classes.
+Access to all changing areas including deluxe changing rooms.</chosenPackage>
+      <assessments/>
+    </PremiumMember>
+  </list>
+</object-stream>
